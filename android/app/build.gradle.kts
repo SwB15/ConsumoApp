@@ -9,8 +9,8 @@ plugins {
 
 android {
     namespace = "com.jqstudios.calculoconsumoapp"
-    compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    compileSdk = 34
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11

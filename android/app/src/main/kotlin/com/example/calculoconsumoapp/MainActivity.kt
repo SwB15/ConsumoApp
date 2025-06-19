@@ -1,4 +1,4 @@
-package com.example.calculoconsumoapp
+package com.jqstudios.calculoconsumoapp
 
 import io.flutter.embedding.android.FlutterActivity
 
